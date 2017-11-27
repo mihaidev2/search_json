@@ -1,0 +1,15 @@
+input[type=text] {
+	width:50%;
+	height:22px;
+	border:solid 1px #BBB;
+	border-radius:4px;
+	background-color:#EFEFEF;
+}
+
+div#result {
+	width:98%;
+	min-height:510px;
+	margin-top:5px;
+	padding:10px;
+	background-color:pink;
+}
